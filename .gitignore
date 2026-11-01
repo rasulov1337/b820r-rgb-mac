@@ -1,0 +1,5 @@
+audiotap
+__pycache__/
+*.pyc
+.DS_Store
+.b820r.lock
